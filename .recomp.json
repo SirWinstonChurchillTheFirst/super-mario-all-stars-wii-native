@@ -1,0 +1,36 @@
+{
+  "$schema": "https://recomp.fyi/schema/v1.json",
+  "game": "Super Mario All-Stars (25th Anniversary Edition)",
+  "system": "Wii",
+  "type": "recomp",
+  "original": {
+    "region": "Europe",
+    "revision": "Rev 0",
+    "serial": "SVMP01"
+  },
+  "project": "Super Mario All-Stars (25th Anniversary Edition) native PC build",
+  "status": "in-progress",
+  "targets": [
+    "Windows",
+    "Linux"
+  ],
+  "toolchain": "wii-recomp (static recompilation, PowerPC to C)",
+  "approach": "Static recompilation of the disc's own code on the player's PC; bring your own disc, no game files distributed.",
+  "maintainers": [
+    {
+      "name": "SirWinstonChurchillTheFirst",
+      "link": "https://github.com/SirWinstonChurchillTheFirst"
+    }
+  ],
+  "links": [
+    {
+      "label": "Runtime",
+      "url": "https://github.com/SirWinstonChurchillTheFirst/wii-recomp"
+    },
+    {
+      "label": "Ko-fi",
+      "url": "https://ko-fi.com/krogger"
+    }
+  ],
+  "notes": "Boots to the title screen and the game-select screen. The game switches the video to PAL 50 Hz and runs at its own 50 fps. Known issue: on the game-select screen two game boxes are drawn over each other. Tested on Windows 11 (RTX 3070 Ti) and on a Linux mini PC (Ryzen 3 4350GE, Vega 6) with scripted inputs; nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+}
