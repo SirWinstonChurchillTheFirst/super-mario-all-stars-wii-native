@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Plays Super Mario Bros. 1-1. Known problem: the game switches the video to PAL 50 Hz, so it runs at 50 fps and judders a little on a 60 Hz display. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Plays Super Mario Bros. 1-1. The European disc runs at 50 Hz, as on a real Wii (Nintendo of Europe confirmed it has no 60 Hz mode). Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
