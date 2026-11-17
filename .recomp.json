@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Plays Super Mario Bros. 1-1. The European disc runs at 50 Hz, as on a real Wii (Nintendo of Europe confirmed it has no 60 Hz mode). Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Plays Super Mario Bros. 1-1. The European disc runs at 50 Hz, as on a real Wii (Nintendo of Europe confirmed it has no 60 Hz mode). Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: Super Mario Bros. 1-1 at a steady 50 fps). Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
